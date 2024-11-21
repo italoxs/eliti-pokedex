@@ -9,6 +9,9 @@ export default {
   theme: {
     extend: {
       colors: {
+        "poke-red": '#EF5350',
+        "poke-blue": '#2a75bb',
+        "poke-yesllow": '#feca1b',
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
